@@ -1,10 +1,10 @@
 Hello! I am @MJP8.
 
 I specialize in <b title="Also responsive web design">web design</b> and know these server-side and markup languages: 
-- **HTML**
-- **CSS**
+- <b title="HyperText Markup Language">HTML</b>
+- <b title="Cascading Style Sheets">CSS</b>
 - **JavaScript**
-- **PHP**
+- <b title="PHP: Hypertext Preprocessor">PHP</b>
 
 For **HTML** forms with **PHP** I am learning **MySQL**. 
 
