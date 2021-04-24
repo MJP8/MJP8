@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    color: white;
+    background: black;
+}
+
+ul {
+    text-align: left;
+    width: fit-content;
+    list-style-image: url("/MJP8/img/checkmark.png");
+}
+
+li {
+    margin: 50px;
+}
