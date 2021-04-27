@@ -1,5 +1,6 @@
 {
     "name": ["Malachi", "Parker"],
     "user_name": "MJP8",
-    "programming_langs": ["HTML", "PHP", "Markdown", "XML", "CSS", "Sass", "JavaScript", "JSON", "C", "C++", "Python", "Scratch"]
+    "programming_langs": ["HTML", "PHP", "Markdown", "XML", "CSS", "Sass", "JavaScript", "JSON", "C", "C++", "Python", "Scratch"],
+    "fav_langs": ["HTML", "PHP", "CSS", "Sass", "JavaScript", "JSON"]
 }
