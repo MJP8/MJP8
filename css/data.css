@@ -7,7 +7,14 @@ body {
 ul {
     text-align: left;
     width: fit-content;
+}
+
+ul.langs {
     list-style-image: url("/MJP8/img/checkmark.png");
+}
+
+ul.favs {
+    list-style-image: url("/MJP8/img/star.png");
 }
 
 li {
